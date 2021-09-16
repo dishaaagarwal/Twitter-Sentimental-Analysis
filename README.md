@@ -29,6 +29,8 @@ In this part I have converted the unstructured data into structured data by remo
 Data Visualization plays a key role in improving of understanding on the data. We can do the same using WordCloud which comes handy when dealing with Text data.
 With the help of Wordcloud I have tried to understand the distribution of Positive and Negative words and which words appear the most.
 
+![](/images/img_1.png)
+
 Also I have tried to extract useful Information from the **Hashtags** to check if they help in differentiating the labels.
 
 
@@ -39,6 +41,9 @@ This is the final step before Model building were we convert our Text data into 
 - **Model Building**
 
 In part I have experimented with Logistic Regression and Naive Bayes techniques using both TFIDF and BOW models.
+
+![](/images/img_5.png)
+![](/images/img_6.png)
 
 - **Making Submission**
 
